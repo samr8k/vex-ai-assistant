@@ -1,4 +1,4 @@
-# 🍡 TableMind — ESP32 Voice Assistant
+# 🍡 VEX — ESP32 Voice Assistant
 
 An always-listening, locally-run voice assistant built on an ESP32 + Raspberry Pi, featuring a hand-drawn animated face, smart home control, and natural conversation powered by on-device LLMs.
 
